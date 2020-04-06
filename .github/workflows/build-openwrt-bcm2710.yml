@@ -1,4 +1,4 @@
-name: Build OpenWrt
+name: Build OpenWrt(bcm2710)
 
 on:
   release:
