@@ -8,6 +8,7 @@ on:
       - master
     paths:
       - '.config'
+      - '.github/workflows/build-openwrt-x86.yml'
 
 env:
   REPO_URL: https://github.com/coolsnowwolf/lede

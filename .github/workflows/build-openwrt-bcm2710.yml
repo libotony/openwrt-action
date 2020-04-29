@@ -8,6 +8,7 @@ on:
       - master
     paths:
       - '.config_bcm2710'
+      - '.github/workflows/build-openwrt-bcm2710.yml'
 
 env:
   REPO_URL: https://github.com/coolsnowwolf/lede
